@@ -1,0 +1,24 @@
+{
+  "name": "sports-blackout-mgr",
+  "version": "1.0.0",
+  "description": "System to Manage North American sports blackouts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mark081/sports-blackout-mgr.git"
+  },
+  "keywords": [
+    "SPORTS",
+    "BLACKOUTS",
+    "CONTENT"
+  ],
+  "author": "Mark Cooper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mark081/sports-blackout-mgr/issues"
+  },
+  "homepage": "https://github.com/mark081/sports-blackout-mgr#readme"
+}
